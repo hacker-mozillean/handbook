@@ -11,6 +11,10 @@ This role has a salary of £TBC depending on experience.
 
 ## Expectations
 
+### To set vision, ensure the team are continuously aligned with, and champion execution of learning
+
+
+
 ### To successfully onboarding all technical roles
 
 

@@ -15,6 +15,11 @@ JobSpec::Role.definition 'Head of Learning' do
 
   salary 00_000..00_000
 
+  # Vision
+
+  expected 'to set vision, ensure the team are continuously aligned with, and champion execution of learning',
+    ''
+
   # Upskilling / Career Development
 
   expected 'to successfully onboarding all technical roles',

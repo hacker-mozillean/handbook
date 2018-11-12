@@ -25,7 +25,7 @@ JobSpec::Role.definition 'Head of Learning' do
   expected 'to successfully onboarding all technical roles',
     ''
 
-  expected 'to ensure engineers are available to pair in interviews',
+  expected 'to ensure engineers are able and available to pair in interviews',
     ''
 
   expected 'to develop new core skills guided by customer and company need',

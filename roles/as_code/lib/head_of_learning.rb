@@ -10,10 +10,10 @@ JobSpec::Role.definition 'Head of Learning' do
 
     ## Salary
 
-    This role has a salary of £TBC depending on experience.
+    This role has a salary of £65-75k depending on experience.
   DESCRIPTION
 
-  salary 00_000..00_000
+  salary 65_000..75_000
 
   # Vision
 
